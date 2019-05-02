@@ -52,7 +52,7 @@
 ================================================== */
 	body {
 		background: #fff;
-		font: 14px/21px "EB Garamond", "Josefin Slab", "Noto Serif KR", Arial, serif, sans-serif;
+		font: 14px/21px "Noto Serif KR", "EB Garamond", "Josefin Slab", Arial, serif, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
@@ -142,7 +142,7 @@
 	  border-radius: 3px;
 	  color: #444;
 	  display: inline-block;
-	  font-size: 11px;
+	  font-size: 12px;
 	  font-weight: bold;
 	  text-decoration: none;
 	  text-shadow: 0 1px rgba(255, 255, 255, .75);
@@ -150,9 +150,9 @@
 	  margin-bottom: 20px;
 	  line-height: normal;
 		padding: 8px 10px;
+		font-family: 'Noto Serif KR', serif;
 		font-family: 'EB Garamond', serif;
-		font-family: 'Josefin Slab', serif;
-		font-family: 'Noto Serif KR', serif;}
+		font-family: 'Josefin Slab', serif;}
 
 	.button:hover,
 	button:hover,
