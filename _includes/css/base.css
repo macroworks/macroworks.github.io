@@ -52,7 +52,7 @@
 ================================================== */
 	body {
 		background: #fff;
-		font: 14px/21px "EB Garamond", "Josefin Slab", Noto Serif KR, Arial, serif, sans-serif;
+		font: 14px/21px "EB Garamond", "Josefin Slab", "Noto Serif KR", Arial, serif, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
@@ -152,8 +152,7 @@
 		padding: 8px 10px;
 		font-family: 'EB Garamond', serif;
 		font-family: 'Josefin Slab', serif;
-		font-family: 'Noto Serif KR', serif;
-	  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+		font-family: 'Noto Serif KR', serif;}
 
 	.button:hover,
 	button:hover,
@@ -222,7 +221,7 @@
 		-moz-border-radius: 2px;
 		-webkit-border-radius: 2px;
 		border-radius: 2px;
-		font: 13px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font: 13px "Noto Serif KR", "EB Garamond", Helvetica, Arial, sans-serif;
 		color: #777;
 		margin: 0;
 		width: 210px;
