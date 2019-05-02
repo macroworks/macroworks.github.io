@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "MacroWorks - 매크로 웍스 웹 자동화"
+keywords:    "웹 자동화, 매크로, 홍보기, 디시인사이드 홍보기, 네이버 카페 글 등록기, 다음 카페 글 등록기, 페이스북 자동화, 인스타그램 자동화, 트위터 자동화"
+description: "웹 자동화 기술을 개발하는 매크로 웍스팀 홈페이지"
+source_link: "https://github.com/macroworks/macroworks.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
