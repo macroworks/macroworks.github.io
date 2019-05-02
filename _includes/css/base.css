@@ -52,7 +52,7 @@
 ================================================== */
 	body {
 		background: #fff;
-		font: 14px/21px "Raleway", "HelveticaNeue-Light", Arial, sans-serif;
+		font: 14px/21px "EB Garamond", "Josefin Slab", Noto Serif KR, Arial, serif, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
@@ -149,7 +149,10 @@
 	  cursor: pointer;
 	  margin-bottom: 20px;
 	  line-height: normal;
-	  padding: 8px 10px;
+		padding: 8px 10px;
+		font-family: 'EB Garamond', serif;
+		font-family: 'Josefin Slab', serif;
+		font-family: 'Noto Serif KR', serif;
 	  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 	.button:hover,
