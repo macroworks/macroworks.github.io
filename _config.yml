@@ -36,3 +36,5 @@ colors:
 kramdown:
   auto_ids:  false
 
+talkyard_server_url: https://comments-for-macroworks-github-io.talkyard.net
+talkyard_script_url: https://c1.ty-cdn.net/-/talkyard-comments.min.js
